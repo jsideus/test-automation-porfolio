@@ -2,7 +2,7 @@
 
 Sanitized technical documents from 11+ years of enterprise SDET work in C#/.NET, demonstrating Senior/Staff-level automation engineering across CI/CD architecture, distributed systems testing, BDD frameworks, and pipeline reliability.
 
-These documents are drawn from real production work — architecture decisions, reliability analyses, debugging investigations, and framework documentation — with proprietary details removed.
+These documents are drawn from real production work — architecture decisions, reliability analyses, debugging investigations, and framework documentation — with all proprietary details removed.
 
 ---
 
